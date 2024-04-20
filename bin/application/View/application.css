@@ -1,0 +1,87 @@
+/*Login page */
+/*Signup page */
+#loginPage,
+#signupPage{
+	-fx-background-image : url("../../images/LoginBackground.jpg");
+	-fx-background-size : 100% 100%;
+}
+
+#loginButton,
+#signupButton,
+#signupConfirmBtn{
+	-fx-background-image : url("../../images/LoginButton.jpg");
+	-fx-background-size : 100% 100%;
+	-fx-background-insets: 0;
+}
+
+#cancelButton,
+#previousButton{
+	-fx-background-image : url("../../images/CancelButton.jpg");
+	-fx-background-size : 100% 100%;
+	-fx-background-insets: 0;
+}
+
+/* Home page */
+#homePage{
+	-fx-background-image : url("../../images/HomeBackground.jpg");
+	-fx-background-size : 100% 100%;
+}
+
+#switchToAddBtn,
+#switchToModifyBtn,
+#switchToRemoveBtn,
+#switchToReportBtn{
+	-fx-background-image : url("../../images/SwitchPageBtn.jpg");
+	-fx-background-size : 100% 100%;
+	-fx-background-insets: 0;
+}
+
+#switchToSettingBtn{
+	-fx-background-image : url("../../images/SwitchPageBtn2.jpg");
+	-fx-background-size : 100% 100%;
+	-fx-background-insets: 0;
+}
+
+#logoutButton{
+	-fx-background-image : url("../../images/CancelButton.jpg");
+	-fx-background-size : 100% 100%;
+	-fx-background-insets: 0;
+}
+
+/* Add page */
+#addPage{
+	-fx-background-image : url("../../images/AddBackground.jpg");
+	-fx-background-size : 100% 100%;
+}
+
+#addButton,
+#removeButton{
+	-fx-background-image : url("../../images/MoonButton.jpg");
+	-fx-background-size : 100% 100%;
+	-fx-background-insets: 0;
+}
+
+#goBackButton{
+	-fx-background-image : url("../../images/CancelButton.jpg");
+	-fx-background-size : 100% 100%;
+	-fx-background-insets: 0;
+}
+
+/* Remove Page */
+#removePage{
+	-fx-background-image : url("../../images/AddBackground.jpg");
+	-fx-background-size : 100% 100%;
+}
+
+/* modify Page */
+#modifyPage,
+#settingPage{
+	-fx-background-image : url("../../images/HomeBackground.jpg");
+	-fx-background-size : 100% 100%;
+}
+
+/* Report Page */
+#reportPage{
+	-fx-background-image : url("../../images/ReportBackground.jpg");
+	-fx-background-size : 100% 100%;
+}

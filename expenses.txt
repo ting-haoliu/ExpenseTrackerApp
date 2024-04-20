@@ -1,0 +1,70 @@
+Adam,Food,50.0,2024-01-10,KFC
+Adam,Transportation,30.5,2024-01-11,Bus fare
+Adam,Accommodation,120.0,2024-01-12,Hotel stay
+Adam,Entertainment,25.0,2024-01-13,Movie ticket
+Adam,Utilities,80.0,2024-01-14,Electricity bill
+Adam,Food,45.0,2024-02-16,Pizza Hut
+Adam,Transportation,20.0,2024-02-17,Taxi ride
+Adam,Accommodation,90.0,2024-02-18,Airbnb
+Adam,Entertainment,35.0,2024-02-19,Concert ticket
+Adam,Utilities,75.0,2024-02-20,Internet bill
+Adam,Other,10.0,2024-02-21,Stationery
+Adam,Food,55.0,2024-03-01,McDonald's
+Adam,Transportation,35.0,2024-03-02,Train ticket
+Adam,Accommodation,100.0,2024-03-03,Hostel stay
+Adam,Entertainment,20.0,2024-03-04,Amusement park
+Adam,Utilities,85.0,2024-03-05,Water bill
+Adam,Food,60.0,2024-04-01,Subway
+Adam,Transportation,25.0,2024-04-02,Uber ride
+Adam,Accommodation,110.0,2024-04-03,Motel stay
+Adam,Entertainment,30.0,2024-04-04,Theater ticket
+Adam,Utilities,70.0,2024-04-05,Gas bill
+Adam,Other,20.0,2024-04-06,Gift
+Adam,Food,48.0,2024-05-01,Burger King
+Adam,Transportation,40.0,2024-05-02,Bicycle repair
+Adam,Accommodation,95.0,2024-05-03,Camping fee
+Adam,Entertainment,15.0,2024-05-04,Mini-golf
+Adam,Utilities,65.0,2024-05-05,Phone bill
+Adam,Other,30.0,2024-05-06,Dining out
+Adam,Food,52.0,2024-06-01,Chipotle
+Adam,Transportation,28.0,2024-06-02,Car rental
+Adam,Accommodation,105.0,2024-06-03,Resort stay
+Adam,Entertainment,25.0,2024-06-04,Theme park ticket
+Adam,Utilities,60.0,2024-06-05,Cable bill
+Adam,Other,35.0,2024-06-06,Healthcare
+Adam,Food,49.0,2024-07-01,Wendy's
+Adam,Transportation,45.0,2024-07-02,Flight ticket
+Adam,Accommodation,80.0,2024-07-03,Staycation
+Adam,Entertainment,40.0,2024-07-04,Zoo entry
+Adam,Utilities,55.0,2024-07-05,Trash bill
+Adam,Other,40.0,2024-07-06,Membership
+Adam,Food,47.0,2024-08-01,Starbucks
+Adam,Transportation,38.0,2024-08-02,Rideshare
+Adam,Accommodation,115.0,2024-08-03,Inn stay
+Adam,Entertainment,45.0,2024-08-04,Bowling
+Adam,Utilities,50.0,2024-08-05,Heating bill
+Adam,Other,45.0,2024-08-06,Subscription
+Adam,Food,46.0,2024-09-01,Taco Bell
+Adam,Transportation,42.0,2024-09-02,Car maintenance
+Adam,Accommodation,85.0,2024-09-03,House rental
+Adam,Entertainment,35.0,2024-09-04,Movie night
+Adam,Utilities,45.0,2024-09-05,Internet bill
+Adam,Other,50.0,2024-09-06,Insurance
+Adam,Food,48.0,2024-10-01,Domino's
+Adam,Transportation,40.0,2024-10-02,Subway pass
+Adam,Accommodation,90.0,2024-10-03,Hostel stay
+Adam,Entertainment,25.0,2024-10-04,Concert ticket
+Adam,Utilities,60.0,2024-10-05,Electricity bill
+Adam,Other,40.0,2024-10-06,Gift card
+Adam,Food,45.0,2024-11-01,KFC
+Adam,Transportation,35.0,2024-11-02,Taxi ride
+Adam,Accommodation,100.0,2024-11-03,Hotel stay
+Adam,Entertainment,20.0,2024-11-04,Amusement park
+Adam,Utilities,70.0,2024-11-05,Water bill
+Adam,Other,25.0,2024-11-06,Repair
+Adam,Food,55.0,2024-12-01,Subway
+Adam,Transportation,25.0,2024-12-02,Uber ride
+Adam,Accommodation,110.0,2024-12-03,Motel stay
+Adam,Entertainment,30.0,2024-12-04,Theater ticket
+Adam,Utilities,75.0,2024-12-05,Gas bill
+Adam,Other,20.0,2024-12-06,Gift
